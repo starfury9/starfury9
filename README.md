@@ -186,20 +186,6 @@ I'm particularly interested in building systems where **AI agents can interact, 
 * 🏗️ Full-Stack Product Development
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=starfury9&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Pragati's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfury9&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Pragati's Top Languages"
-  />
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -209,16 +195,6 @@ I'm particularly interested in building systems where **AI agents can interact, 
 </p>
 
 ---
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=starfury9&theme=tokyo-night&hide_border=true"
-    alt="Pragati's GitHub Activity Graph"
-  />
-</p>
----
-
 # 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
