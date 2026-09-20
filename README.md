@@ -186,17 +186,18 @@ I'm particularly interested in building systems where **AI agents can interact, 
 * 🏗️ Full-Stack Product Development
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starfury9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfury9&layout=compact&hide_border=true&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=starfury9&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Pragati's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfury9&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Pragati's Top Languages"
+  />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -208,15 +209,14 @@ I'm particularly interested in building systems where **AI agents can interact, 
 </p>
 
 ---
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=starfury9&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=starfury9&theme=tokyo-night&hide_border=true"
+    alt="Pragati's GitHub Activity Graph"
+  />
 </p>
-
 ---
 
 # 🐍 Watch My Contributions Get Eaten
